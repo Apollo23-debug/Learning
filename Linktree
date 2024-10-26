@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <img src="https://mimo.app/i/dog.png" width="150" />
+
+    <div>
+      <h1>Andy Pollard</h1>
+      <h2>Aspiring coder <i class="fas fa-code"></i></h2>
+    </div>
+
+    <p>
+      Welcome! Here you will find the many places you can view my work,
+      including previous artworks and various coding projects
+    </p>
+    <a href="instagram.com/art_crumbs"
+      ><i class="fab fa-instagram"></i> Instagram</a
+    >
+    <br />
+    <br />
+    <a href="/https://www.artstation.com/?sort_by=community&dimension=all"><i class="fab fa-artstation"></i> ArtStation</a>
+    <br />
+    <br />
+    <a href="x.com/Andy_Tanasha"><i class="fab fa-twitter"></i> X/Twitter</a>
+  </body>
+</html>
